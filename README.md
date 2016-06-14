@@ -52,4 +52,4 @@ HelloCodeSchoolProject (answer) $ npm test
 
 # Submission
 
-In order to submit this project, create a pull request from your fork back to the "codeschool/HelloCodeSchoolProject" project.
+In order to submit this project, create a pull request from your fork back to the "codeschool/HelloCodeSchoolProject" project. After you see your pull request green, everything is passing!
