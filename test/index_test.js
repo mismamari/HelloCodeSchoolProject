@@ -1,4 +1,4 @@
-var jsdom = require("jsdom"),
+var jsdom = require('jsdom'),
     fs = require('fs'),
     assert = require('chai').assert,
     file = fs.readFileSync('index.html').toString();
