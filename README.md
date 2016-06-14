@@ -6,7 +6,7 @@ This is a sample project to test out how projects work at Code School.
 
 # Forking
 
-To get started, fork this repository to your account and clone it down locally. If you want, you can also try do this completely from GitHub!
+To get started, fork this repository to your account and clone it down locally. If you want, you can also try doing this completely from GitHub!
 
 # Tasks
 
@@ -17,7 +17,7 @@ Once you've forked this repository, go ahead and make the following changes to t
 * Create a `ul` element with at least 2 `li` elements.
 * In these `li` elements, list out what you want to learn.
 
-Once you've completed all of the tasks, go ahead and commit those to your
+Once you've completed all of the tasks, go ahead and commit those to your fork.
 
 # Running Tests Locally
 
