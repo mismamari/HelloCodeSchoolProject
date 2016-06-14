@@ -53,3 +53,21 @@ HelloCodeSchoolProject (answer) $ npm test
 # Submission
 
 In order to submit this project, create a pull request from your fork back to the "codeschool/HelloCodeSchoolProject" project. After you see your pull request green, everything is passing!
+
+# Making it Public
+
+Once all tests are passing, try pushing your master branch up to the `gh-pages` branch -- this will make your webpage available on the web! Here's a command to do that:
+
+```
+$ git push origin master:gh-pages
+```
+
+This will make your `index.html` file available at the URL:
+
+`http://<username>.github.io/HelloCodeSchoolProject/`
+
+For instance, our `answer` branch is available at the url [http://codeschool.github.io/HelloCodeSchoolProject/](http://codeschool.github.io/HelloCodeSchoolProject/).
+
+# Submitting Back to Code School
+
+TBD
